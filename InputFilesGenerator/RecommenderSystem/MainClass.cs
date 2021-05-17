@@ -69,7 +69,7 @@ namespace RecommenderSystem
             usersOutput = @"C:\Users\uidj1061\Desktop\dsa\users.csv";
             usersRatingsOutput = @"C:\Users\uidj1061\Desktop\dsa\usersRatings.csv";
 
-            userCounter = 30000;
+            userCounter = 15000;
         }
 
         private static void CheckOutputFiles(string movies, string users, string usersRating)
