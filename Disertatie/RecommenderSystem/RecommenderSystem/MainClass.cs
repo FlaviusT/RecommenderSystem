@@ -13,7 +13,7 @@ namespace RecommenderSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Interface());
+            Application.Run(new RecommenderSystem());
         }
     }
 }
