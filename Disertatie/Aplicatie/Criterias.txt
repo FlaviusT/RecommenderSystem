@@ -1,0 +1,7 @@
+1. Calitatea prezicerilor:
+	- set mic de date;
+	- set mare de date;
+	- date cu similaritati putine(sparsitate);
+2. Timpul de afisare al prezicerilor raportat la marimea setului de date;
+3. Adaptabilitate;
+4. Rezolvarea problemei startului rece;

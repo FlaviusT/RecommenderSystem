@@ -1,0 +1,23 @@
+1. 
+Lucrare de sinteza care sa cuprinda compararea strategiilor de filtrare traditionale: 
+Bazata pe continut, bazata pe filtrare colaborativa, filtrare hibrida, cel mai popular produs si bazata pe incredere.
+
+https://biblio.ugent.be/publication/5711963/file/5711973.pdf
+
+
+2.
+Lucrare de sinteza care sa cuprinda compararea metodelor de filtrare colaborativa:
+Bazata pe memorie, pe continut,  
+
+
+
+Din fiecare metoda sa compar cei mai cunoscuti algoritmi.
+
+https://www.researchgate.net/publication/220593852_Comparison_of_collaborative_filtering_algorithms_Limitations_of_current_techniques_and_proposals_for_scalable_high-performance_recommender_systems
+https://thesai.org/Downloads/Volume10No10/Paper_16-Performance_Comparison_of_Collaborative_Filtering_Approach.pdf
+https://www.hindawi.com/journals/aai/2009/421425/
+https://books.google.ro/books?id=S9WEDwAAQBAJ&pg=PA321&lpg=PA321&dq=cross+domain+rs+algorithms&source=bl&ots=p93GgIb2dV&sig=ACfU3U0N2JReY1Sv9rwvelZowNgwz8lZjA&hl=en&sa=X&ved=2ahUKEwiW3Y25qPfpAhXyh4sKHbEiAhIQ6AEwBnoECAoQAQ#v=onepage&q=cross%20domain%20rs%20algorithms&f=false
+
+
+
+Compararea metodelor d

@@ -1,0 +1,8 @@
+#######################################################################################################################################
+############### Description
+############### It is the basic correlation algorithm for samples adapted for rating information. 
+############### It tries to measure how much two users vary together from their normal votes - that is, 
+############### the direction/magnitude of each's vote in comparison to their voting average.
+############### If they vary in the same way on the items they have rated in common,
+############### they will get a positive correlation; otherwise, they will get a negative correlation.
+#######################################################################################################################################

@@ -1,0 +1,20 @@
+Input:
+	- a list of movies
+	- a list of users
+	- a list of ratings given by users;
+
+Output:
+	- as output we have a matrix that consist from each user on the x axis and each movie on the y axis;
+	- the matrix contains all the ratings given by users, and, where the users have no ratings, the rating will be
+	computed using the content-based algorithm(this is pseudo rating)
+					
+				- URx,y : where the user has given a rating;				
+		Vx,y =
+				- PRx,y: where the user has given no rating;
+				
+		Vx,y - the matrix of all the users with ratings to all movies;
+		URx,y - if the user x rated the movie y, this rating will be written in the matrix;
+		PRx,y - peudo-rating(computed by content-based algorithm) where user x has given no rating to the movie y
+		
+		
+https://www.youtube.com/watch?v=TFi7WXpaIiY

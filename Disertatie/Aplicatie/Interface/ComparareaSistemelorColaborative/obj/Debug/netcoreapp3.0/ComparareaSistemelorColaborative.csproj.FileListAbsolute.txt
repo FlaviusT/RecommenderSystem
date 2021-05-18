@@ -1,0 +1,11 @@
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\bin\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.exe
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\bin\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.deps.json
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\bin\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.runtimeconfig.json
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\bin\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.runtimeconfig.dev.json
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\bin\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.dll
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\bin\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.pdb
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\obj\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.csprojAssemblyReference.cache
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\obj\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.AssemblyInfoInputs.cache
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\obj\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.AssemblyInfo.cs
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\obj\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.dll
+D:\things\Disertatie\Aplicatie\Interface\ComparareaSistemelorColaborative\obj\Debug\netcoreapp3.0\ComparareaSistemelorColaborative.pdb

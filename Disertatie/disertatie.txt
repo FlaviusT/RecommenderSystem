@@ -1,0 +1,20 @@
+Studiu comparativ al metodelor de filtrare utilizate in proiectarea sistemelor colaborative
+
+----
+Flavius Topan
+
+Filtrare colaborativa
+
+Clasificatori de tip kNN
+
+10.06.2020
+
+Etape:
+
+- documentare si pregatire state-of-the-art pentru strategii de filtrare
+
+- stabilire criterii de comparare
+
+- selectie seturi de date/probleme
+
+- implementare + testare
